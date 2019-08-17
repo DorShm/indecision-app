@@ -1,4 +1,5 @@
 node_modules
 .vscode
 public/scripts/app.js
+public/bundle.js
 yarn.lock
